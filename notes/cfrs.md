@@ -8,7 +8,7 @@
   * Other aircraft specified by the Administrator
   * Can operate aircraft without type rating under certain limitations in certain situations
 * 61.31
-  * High altitude endorsement required to be PIC of a pressureized aircraft with a service ceiling or maximum operating altitude (whichever lower) above 25,000 feet MSL
+  * High altitude endorsement required to be PIC of a pressurized aircraft with a service ceiling or maximum operating altitude (whichever lower) above 25,000 feet MSL
 * 61.51: pilot and aircraft requirements for logging time
 
 * Part 125 vs 135:

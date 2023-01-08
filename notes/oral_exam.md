@@ -71,6 +71,10 @@
 
 ![Oxygen system altitude limites](../images/oxygen_altitude_limits.jpeg)
 
+![Everything Explained for the Professional Pilot - Oxygen](images/oxygen-1.jpeg)
+
+![Everything Explained for the Professional Pilot - Oxygen](images/oxygen-2.jpeg)
+
 ## Common Carriage
  * Wet lease
    * Lessor of aircraft also provides crew; lessor has operational control
@@ -101,18 +105,20 @@
 * Typical cabin pressure altitude maintained is 8000 feet at maximum designed cruising altitude of an aircraft
   * Air is exchanged reasonably fast from inside to outside of cabin
 * Cabin pressure regulator
-  * Controls cabin pressure to a selected value and limits cabin pressure to a present differential value
+  * Controls cabin pressure to a selected value and limits cabin pressure to a preset differential value
   * After aircraft reaches altitude at which differential is highest for which fuselage is designed, a further increase in aircraft altitude will increase cabin altitude
-* Outflow valve
-  * Allows for air to exit the cabin at a controlled rate which results in the cabin becoming pressurized
-  * **Begins closing until max cabin differential pressure is reached; thereafter, cabin altitude begins to climb**
-    * Cabin rate of climb is slightly less than airplane rate of climb
-* Safety/dump valve
-  * Combination pressure relief, vacuum relief, and dump valve
-  * Pressure relief valve prevents cabin pressure from exceeding the predetermined differential pressure
-  * Vacuum relief prevents ambient pressure from exceeding cabin pressure by allowing external air to enter cabin when ambient pressure exceeds cabin pressure
-  * Dump valve dumps cabin air into atmosphere
-  * Basically, if outflow valve fails, this thing releases excess pressure to prevent pressurization on the ground; activated either manually or via squat switch
+* Valves
+  * Outflow valve
+    * Allows for air to exit the cabin at a controlled rate which results in the cabin becoming pressurized
+    * **Begins closing until max cabin differential pressure is reached; thereafter, cabin altitude begins to climb**
+      * Cabin rate of climb is slightly less than airplane rate of climb
+  * Safety/dump valve
+    * Combination pressure relief, vacuum relief, and dump valve
+    * If the outflow valve fails, this will release excess pressure (can be manually activated) by a squat switch to prevent pressurization on the ground
+    * Dump valve dumps cabin air into atmosphere
+  * Vacuum relief valve
+    * Allows ambient air into the cabin
+    * Prevents ambient pressure from exceeding cabin pressure by allowing external air to enter cabin
 * Generally, fuselage is designed to withstand a particular maximum cabin differential pressure
 * Sonic venturi
   * Limits amount of air taken from turbocharger by accelerating air to sonic speeds, creating a shock wave which acts as a barrier
@@ -157,7 +163,7 @@
 * Temporary Aircraft Registration
   * Lasts 90 days
 * Aircraft Registration
-  * Lasts 36 calendar months
+  * Lasts 36 calendar months (7 years after 1/23/23)
 * Search and rescue is initiated if you fail to report or cancel flight plan within 30 minutes after ETA
 
 ## Aeromedical
@@ -311,6 +317,11 @@
   * Thus, has slightly higher airspeed, and thus generates slightly more lift
   * More pronounced the steeper the turn is because it is balanced out by lateral stability more effectively at shallower banks
 
+## Normal and Utility Category
+* Normal: +3.8, -1.52 Gs
+* Utility: +4.4, -1.76 Gs
+* Aerobatic: +6, -3 Gs
+
 ## More Commercial stuff
 * When is a flight for compensation or hire?
   * No common purpose (having a reason to fly to a particular destination) AND I am exercising "operational control" of the flight
@@ -327,3 +338,25 @@ OR
   7. Deactivate and placard it
 * 10 hour grace for 100 hr inspection does not require to ADs that have come due at "next regularly scheduled inspection"
 * Scenario-based questions: ask yourself, "how did we get into this situation?"
+* Runway weights on chart supplement
+  * S-75 says it will support Single Wheel Main Landing Gear up to 75,000 pounds.
+  * D-95 says double wheel mains can go up to 95,000
+  * 2D-130 says two wheels in tandem landing gear up to 130,000.
+* Turbocharger uses exhaust gas to power turbine; supercharger is directly connected to the crankshaft
+* SCUBA
+  * AIM 8-1-2
+  * Wait 12 hours, or if going above 8,000/had controlled ascent, 24 hours
+* 4 left-turning tendencies
+  * P-Factor
+    * Descending blade has a slightly higher AOA than ascending blade, and thus produces slightly more thrust
+  * Torque
+  * Spiraling slipstream
+  * Gyroscopic precession
+    * Only present with pitch change (rotation, level off)
+    * Tailwheel plane rotate
+    * Applied force is experienced 90 degrees in direction of rotation
+  * When are left-turning tendencies most pronounced?
+    * Low airspeed
+    * High AOA
+    * High thrust
+

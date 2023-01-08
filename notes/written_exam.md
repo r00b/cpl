@@ -38,7 +38,7 @@
 * Dyanmic
   * Positive: oscillations dampen out over time
   * Neutral: oscillations never dampen out
-  * Negative: oscillations get worse over time
+* Negative: oscillations get worse over time
 
 ### Airspeed
 * Maximum range airspeed decreases as weight decreases (i.e. as you burn gas through flight)
@@ -153,7 +153,7 @@
       * Thrust is maximum at takeoff roll and decreases as airplane gains speed
 * Manifold pressure gauge
   * [Article](https://www.askacfi.com/433/why-does-manifold-pressure-increase-during-a-prop-check.htm) and [article](https://www.avweb.com/flight-safety/technique/pelicans-perch-15manifold-pressure-sucks/)
-  * Manifold pressure measures amount ov vacuum developer in the instake manifold as the air is pulled through the filter, past the throttle plate, and across the manifold pressure gauge into the cylinders
+  * Manifold pressure measures amount of vacuum developer in the instake manifold as the air is pulled through the filter, past the throttle plate, and across the manifold pressure gauge into the cylinders
   * Will read 12-13 inches at idle when atmospheric pressure is 30 inches
   * Reducing RPM during a magneto or prop check reduces sucking power of the cylinders; manifold pressure gauge thus moves UP towards ambient outside pressure, which is why manifold pressure gauge rises during a prop check
   * When engine is off, manifold pressure will read ambient pressure
@@ -175,7 +175,7 @@
   * Decrease manifold pressure -> decrease pitch to maintain RPM
 
 ## FARs
-* Type certificate required for > 12,500 pounds
+* Type rating required for > 12,500 pounds
 * Cannot conduct a formation flight when carrying passengers for hire
 * Serious injury: hospitalized within 7 days of accident for at least 48 hours
 * Alcohol: 8 hours bottle to throttle AND BAC 0.04
