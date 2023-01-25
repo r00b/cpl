@@ -51,7 +51,7 @@
         * Rated up to 40,000 feet
         * Must have capability to be donned in 5 seconds or less
         * Usually used by flight deck crew
-  3. Pressure demand
+  3. **Pressure demand**
     * Airplane goes above FL400
     * Forces pressurized 100% oxygen into lungs as you breathe
     * Must force exhale since system forces air into lungs under pressure
